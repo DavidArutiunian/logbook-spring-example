@@ -5,3 +5,4 @@ Logbook Spring example repo
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DavidArutiunian/logbook-spring-example.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DavidArutiunian/logbook-spring-example.svg)
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/DavidArutiunian/logbook-spring-example.svg)
+[![TLOC](https://tokei.rs/b1/github/DavidArutiunian/logbook-spring-example)](https://github.com/DavidArutiunian/logbook-spring-example)
